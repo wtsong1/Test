@@ -5,3 +5,4 @@ Method for solving periodic model
 
 ## ENd-effect
 Method for solving periodic model
+ddd
